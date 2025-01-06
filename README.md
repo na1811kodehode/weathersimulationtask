@@ -27,4 +27,5 @@ This part generates random weather conditions every time the program runs. It di
 1. Open the C# file in your preferred IDE
 2. Compile and run the program to see the generated weather details.
 
+
 *Written with ChatGPT assistance*
