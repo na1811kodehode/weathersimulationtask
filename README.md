@@ -1,7 +1,7 @@
 # Weather Simulation Project
 
 ## Part 1: Dynamic Weather Simulation in HTML/CSS and Javascript ('WeatherSimulationJS')
-This part creates a dynamic weather simulation that updates the weather conditions every 3 minutes. It displays the weather information on a webpage, displays a fun picture depending on weather conditions and provides warnings for extreme weather (e.g., snow and low temperatures).
+This part creates a dynamic weather simulation that updates the weather conditions every 3 minutes. It displays the weather information on a webpage, displays a fun picture depending on weather conditions and provides warnings for extreme weather (e.g., snow *and* low temperatures).
 
 ### Preview
 
