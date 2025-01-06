@@ -1,0 +1,84 @@
+/* CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    padding: 40px;
+    max-width: 1000px;
+}
+
+.header {
+    background: rgba(212, 210, 210, 0.2);
+    max-width: 800px;
+    margin: 15px auto;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.weather-info {
+    padding: 40px 0;
+    height: 250px;
+    background:#e2e5e5;
+    border-radius: 15px;
+    border: 2px solid #191a1a;
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+.weather-info p {
+    display: block;
+    margin: 5px 0;
+}
+
+.pic-box {
+    height: 250px;
+}
+
+.pic-box img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.timer {
+    background: rgba(212, 210, 210, 0.2);
+    display: flex;
+    flex-direction: row;
+    justify-self: end;
+    justify-content: center;
+    width: 25%;
+}
+
+#extreme {
+    font-weight: 800;
+    font-size: 1.9rem;
+    color: rgb(218, 42, 42);
+}
