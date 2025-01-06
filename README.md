@@ -28,4 +28,4 @@ This part generates random weather conditions every time the program runs. It di
 2. Compile and run the program to see the generated weather details.
 
 
-*Written with ChatGPT assistance*
+*Readme written with ChatGPT assistance*
